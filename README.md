@@ -1,1 +1,1 @@
-# INE5609 - ESTRUTURA DE DADOS
+# INE5609 - Estruturas de Dados
